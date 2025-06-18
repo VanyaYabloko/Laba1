@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Word Scramble</string>
+    <string name="game_title">Word Scramble</string>
+    <string name="guess_hint">Введите слово...</string>
+    <string name="submit">Проверить</string>
+    <string name="correct"> Верно! Следующее слово...</string>
+    <string name="incorrect"> Попробуйте еще раз!</string>
+</resources>
